@@ -1,0 +1,9 @@
+{
+  "name": "Original Xbox Music Pack",
+  "description": "The background music of the Original Xbox Dashboard.",
+  "author": "Ollum",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
