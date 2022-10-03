@@ -1,9 +1,0 @@
-{
-  "name": "Original Xbox Sound Pack",
-  "description": "These sounds have been ripped off an Original Xbox (might not be 1:1 though)",
-  "author": "Ollum",
-  "version": "v1.0",
-  "manifest_version": 1,
-  "music": false,
-  "ignore": []
-}
