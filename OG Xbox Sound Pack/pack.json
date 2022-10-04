@@ -2,7 +2,7 @@
   "name": "Original Xbox Sound Pack",
   "description": "The sounds of an Original Xbox.",
   "author": "Ollum",
-  "version": "v1.0",
+  "version": "v1.1",
   "manifest_version": 1,
   "music": false,
   "ignore": [
